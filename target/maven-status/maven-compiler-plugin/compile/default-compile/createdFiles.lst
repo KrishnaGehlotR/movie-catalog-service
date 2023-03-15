@@ -1,0 +1,6 @@
+org\dev\microservicesdemo\MovieCatalogServiceApplication.class
+org\dev\microservicesdemo\models\Movie.class
+org\dev\microservicesdemo\resources\MovieCatalogResource.class
+org\dev\microservicesdemo\models\CatalogItem.class
+org\dev\microservicesdemo\models\UserRating.class
+org\dev\microservicesdemo\models\Rating.class
